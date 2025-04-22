@@ -1,4 +1,4 @@
-# badyetnew
+# Badyet
 
 A new Flutter project.
 
